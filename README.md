@@ -5,7 +5,7 @@ A repository that organizes the 2024 CVPR Accpeted list.
 
 I plan to keep it updated, but currently only the title and author are displayed.
 
-I've organized it into README.md, xlsx, and csv files, so feel free to use whatever you're comfortable with.
+I've organized it into `README.md`, `.xlsx`, and `.csv` files, so feel free to use whatever you're comfortable with.
 
 I'll upload the code when it's complete, and issues and contributions are always welcome.
 
